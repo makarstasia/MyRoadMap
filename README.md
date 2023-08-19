@@ -18,6 +18,7 @@
 - [x] Лекция: Задача сегментации архитектура U-Net (https://www.youtube.com/watch?v=5cuWC9fD7BA)
 - [x] Статья: U-Net: Convolutional Networks for Biomedical Image Segmentation (https://arxiv.org/pdf/1505.04597.pdf)
 - [x] U-Net реализация (https://github.com/makarstasia/MyRoadMap/blob/main/UNETrealization.ipynb)
+- [x] Лекция : Архитектура ResNet(https://www.youtube.com/watch?v=M_ukL_cDvWg)
 - [ ] 
 - [ ] Классификации (ResNet). Идеально: реализовать вручную.
 
