@@ -21,7 +21,7 @@
 - [x] Лекция : Архитектура ResNet(https://www.youtube.com/watch?v=M_ukL_cDvWg)
 - [x] Классификации (ResNet). (https://github.com/makarstasia/MyRoadMap/blob/main/resnet18-realization-ipynb.ipynb)
 
-## Принципы PyTorch Lightning 
+- [x] PyTorch Lightning (https://www.youtube.com/playlist?list=PLhhyoLH6IjfyL740PTuXef4TstxAK6nGP)
 
 ## Виртуальное окружение Conda. 
 - [ ] Логирование ml-экспериментов при помощи ClearML.
