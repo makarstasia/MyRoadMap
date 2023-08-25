@@ -23,8 +23,8 @@
 
 - [x] PyTorch Lightning (https://www.youtube.com/playlist?list=PLhhyoLH6IjfyL740PTuXef4TstxAK6nGP)
 
-## Виртуальное окружение Conda. 
-- [ ] Логирование ml-экспериментов при помощи ClearML.
+- [x] Виртуальное окружение Conda. 
+- [x] Логирование ml-экспериментов при помощи ClearML. (https://github.com/makarstasia/MyRoadMap/blob/main/ClearML_Test.ipynb)
 - [ ] Работа с Git из командной строки. 
 
 - [ ] Взять любой датасет для сегментации и самостоятельно обучить модель.
