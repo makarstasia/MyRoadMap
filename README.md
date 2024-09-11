@@ -25,7 +25,12 @@
 
 - [x] Виртуальное окружение Conda. 
 - [x] Логирование ml-экспериментов при помощи ClearML. (https://github.com/makarstasia/MyRoadMap/blob/main/ClearML_Test.ipynb)
-- [ ] Работа с Git из командной строки. 
+- [x] Работа с Git из командной строки. 
+- [x] Взять любой датасет для сегментации и самостоятельно обучить модель.
 
-- [ ] Взять любой датасет для сегментации и самостоятельно обучить модель.
+## SQL
+(https://github.com/Data-Learn/SQL-for-beginners/tree/main/SQL-101%20Modules/Module%201/Practice%20on%20Module%201)
+- [x] Задания по курсу из первого модуля. (https://github.com/makarstasia/MyRoadMap/blob/main/module1.sql)
+
+
 
