@@ -31,7 +31,8 @@
 ## SQL
 (https://github.com/Data-Learn/SQL-for-beginners/tree/main/SQL-101%20Modules/Module%201/Practice%20on%20Module%201)
 - [x] [Задания по курсу из первого модуля](https://github.com/makarstasia/MyRoadMap/blob/main/module1.sql)
-- [ ] Практика по внутреннему соединению [INNER JOIN](https://github.com/makarstasia/MyRoadMap/blob/main/module2_12.sql)
+- [x] Практика по внутреннему соединению [INNER JOIN](https://github.com/makarstasia/MyRoadMap/blob/main/module2_12.sql)
+- [x] [Задания по курсу из второго модуля](https://github.com/makarstasia/MyRoadMap/blob/main/module2_test.sql)
 
 
 
